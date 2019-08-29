@@ -42,6 +42,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'movies',
     'bootstrap3',
+    'tinymce',
 ]
 
 MIDDLEWARE = [
